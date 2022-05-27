@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pagraphs-generator/static/css/main.33f82f35.css",
+    "main.js": "/Pagraphs-generator/static/js/main.bd132d11.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Pagraphs-generator/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Pagraphs-generator/index.html",
+    "main.33f82f35.css.map": "/Pagraphs-generator/static/css/main.33f82f35.css.map",
+    "main.bd132d11.js.map": "/Pagraphs-generator/static/js/main.bd132d11.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Pagraphs-generator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f82f35.css",
+    "static/js/main.bd132d11.js"
+  ]
+}
